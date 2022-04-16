@@ -24,7 +24,7 @@
 </p>
 <p align="left">
   <a href="https://github.com/ROBO358">
-    <img height="215px" width="750px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ROBO358&theme=solarized_dark" />
+    <img width="750px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ROBO358&theme=solarized_dark" />
   </a>
 </p>
        
