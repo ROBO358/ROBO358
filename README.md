@@ -19,12 +19,12 @@
     <img height="160px" src="https://github-readme-stats.vercel.app/api?username=ROBO358&hide=stars&count_private=true&show_icons=true&disable_animations=true&hide_border=true&bg_color=0c3741&theme=solarized-dark" />
   </a>
   <a href="https://github.com/ROBO358">
-    <img height="160px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ROBO358&theme=solarized_dark" />
+    <img height="160px" src="https://raw.githubusercontent.com/ROBO358/ROBO358/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg" />
   </a>
 </p>
 <p align="left">
   <a href="https://github.com/ROBO358">
-    <img width="750px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ROBO358&theme=solarized_dark" />
+    <img width="750px" src="https://raw.githubusercontent.com/ROBO358/ROBO358/main/profile-summary-card-output/solarized_dark/0-profile-details.svg" />
   </a>
 </p>
        
