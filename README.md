@@ -6,11 +6,8 @@
   <a href="https://ROBO358.com">
     <img src="https://img.shields.io/badge/Portfolio-ROBO358.com-green" alt="ROBO358's Portfolio" />
   </a>
-  <a href="http://twitter.com/ROBO358">
-    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Tweet&logo=twitter&style=flat" />
-  </a>
   <a href="https://twitter.com/intent/follow?screen_name=ROBO358">
-    <img height="20" src="https://img.shields.io/twitter/follow/ROBO358?label=Follow&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/badge/follow-%40ROBO358-1DA1F2?logo=twitter&style=flat" />
   </a>
 </p>
 
