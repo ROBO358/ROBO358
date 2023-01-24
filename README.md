@@ -9,6 +9,9 @@
   <a href="https://twitter.com/intent/follow?screen_name=ROBO358">
     <img height="20" src="https://img.shields.io/badge/follow-%40ROBO358-1DA1F2?logo=twitter&style=flat" />
   </a>
+  <a href="https://mstdn.jp/@ROBO358">
+    <img height="20" src="https://img.shields.io/mastodon/follow/000029323?color=358bd1&domain=https%3A%2F%2Fmstdn.jp&logo=Mastodon&logoColor=358bd1&style=plastic&style=flat" />
+  </a>
 </p>
 
 Powered by [Shields.io](https://github.com/badges/shields)
