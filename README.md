@@ -26,7 +26,7 @@ Powered by [Shields.io](https://github.com/badges/shields)
 
 <p align="left">
   <a href="https://github.com/ROBO358">
-    <img width="750px" src="https://raw.githubusercontent.com/ROBO358/ROBO358/main/profile-summary-card-output/solarized_dark/0-profile-details.svg" />
+    <img width="725px" src="https://raw.githubusercontent.com/ROBO358/ROBO358/main/profile-summary-card-output/solarized_dark/0-profile-details.svg" />
   </a>
 </p>
 <p align="left">
