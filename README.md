@@ -12,6 +12,12 @@
   <a href="https://mstdn.jp/@ROBO358">
     <img height="20" src="https://img.shields.io/mastodon/follow/000029323?color=358bd1&domain=https%3A%2F%2Fmstdn.jp&logo=Mastodon&logoColor=358bd1&style=plastic&style=flat" />
   </a>
+  <a href="https://iris.to/robo358@nostrpurple.com">
+    <img height="20" src="https://img.shields.io/badge/Nostr-iris.to-blueviolet?style=flat&logo=appveyor" />
+  </a>
+  <a href="https://snort.social/p/npub147ccm75um0zkn0lr9fg9wrag2g6yxfw234fpmhdwuvaqjyegrhgs46t2td">
+    <img height="20" src="https://img.shields.io/badge/Nostr-snort.social-blueviolet?style=flat&logo=appveyor" />
+  </a>
 </p>
 
 Powered by [Shields.io](https://github.com/badges/shields)
