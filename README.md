@@ -1,4 +1,4 @@
-## Hi 👋, I'm a Japanese college student 🎓
+## Hi 👋, I'm a Japanese ex-college student 🎓
 
 ### Links:
 
